@@ -44,3 +44,7 @@ if (sms.Connect())
 {
     sms.Send("recipient_number", "Hello, this is a test message.");
 }
+
+
+<img src="https://raw.githubusercontent.com/chamarasab/sms/main/Capture.PNG"/>
+
